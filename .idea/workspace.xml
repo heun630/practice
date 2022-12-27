@@ -4,18 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f4cf2af-4b13-4f3e-b120-01021f3bae00" name="Changes" comment="test">
+    <list default="true" id="4f4cf2af-4b13-4f3e-b120-01021f3bae00" name="Changes" comment="Hello World!">
       <change afterPath="$PROJECT_DIR$/src/truffle_test/contracts/.gitkeep" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/truffle_test/contracts/FallBack.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/truffle_test/contracts/HelloWorld.sol" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/truffle_test/contracts/Migrations.sol" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/truffle_test/migrations/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/truffle_test/migrations/2_HelloWorld_migration.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/truffle_test/test/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/truffle_test/test/HelloWorldTest.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/truffle_test/truffle-config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +61,7 @@
       <workItem from="1671523004742" duration="2361000" />
       <workItem from="1671717554821" duration="3191000" />
       <workItem from="1672011600637" duration="362000" />
-      <workItem from="1672040421660" duration="9172000" />
+      <workItem from="1672040421660" duration="9491000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1671717743651</created>
@@ -75,7 +70,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671717743651</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Hello World!">
+      <created>1672114210384</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1672114210385</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,6 +96,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="Hello World!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hello World!" />
   </component>
 </project>
